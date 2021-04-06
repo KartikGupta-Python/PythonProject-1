@@ -1,0 +1,8 @@
+print("Form For School Rgestration")
+Name=input("Enter your Name: ")
+Age=input("Enter your Age: ")
+Class=input("Enter your Class: ")
+Sec=input("Enter your Sec: ")
+School=input("Enter your School Name: ")
+Name=input("Enter your Mother Name: ")
+Name=input("Enter your Father Name: ")
